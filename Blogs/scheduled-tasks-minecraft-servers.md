@@ -72,7 +72,7 @@ Copy-Item "${ServerDirectory}/server_new.properties" "${ServerDirectory}/server.
 supervisorctl start minecraft
 ```
 
-The scripts I created to manage my Minecraft server and are available on [Github](https://github.com/KaeIan/MinecraftManagementScripts){target="__blank"}, I chose PowerShell because I prefer it over bash. I know I could have used OOP to take all settings and output the file but it really was not necessary, there are only a small number of properties I need to change and I did not need to over engineer, features are only great if they are actually useful. In this case I only need to change `difficulty`, `monsters spawns` and `motd` properties.
+The scripts I created to manage my Minecraft server and are available on [Github](https://github.com/kaelanhr/MinecraftManagementScripts){target="__blank"}, I chose PowerShell because I prefer it over bash. I know I could have used OOP to take all settings and output the file but it really was not necessary, there are only a small number of properties I need to change and I did not need to over engineer, features are only great if they are actually useful. In this case I only need to change `difficulty`, `monsters spawns` and `motd` properties.
 
 ## Creating cron jobs
 

@@ -85,4 +85,4 @@ I started  off with good intentions and ultimately from a technical perspective 
 
 **Software Architecture:** Never change code architecture part way through, you are better off starting from scratch and porting over logic, this was something I greatly regretted.
 
-Overall, It was a great experience and I took many of the lessons learned into the successor project which this blog is deployed on, I will cover this in greater detail in a future post. You can find the source code for the portfolio website on [Github](https://github.com/KaeIan/PortfolioSite){target="__blank"}.
+Overall, It was a great experience and I took many of the lessons learned into the successor project which this blog is deployed on, I will cover this in greater detail in a future post. You can find the source code for the portfolio website on [Github](https://github.com/kaelanhr/PortfolioSite){target="__blank"}.

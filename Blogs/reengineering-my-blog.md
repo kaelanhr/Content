@@ -169,7 +169,7 @@ I can call the component on each page with the following syntax.
 <component type="typeof(Components.BlogList)" render-mode="Static" param-blogs="@Model.Blogs" />
 ```
 
-While it  would be trivial to implement tracking or advertisements in an attempt to generate revenue, It would result in a performance hit. I also find it unethical and it does not fit with the purpose of the application. You can view the source code on [Github](https://github.com/KaeIan/Personal-Blog){target="__blank"}.
+While it  would be trivial to implement tracking or advertisements in an attempt to generate revenue, It would result in a performance hit. I also find it unethical and it does not fit with the purpose of the application. You can view the source code on [Github](https://github.com/kaelanhr/Personal-Blog){target="__blank"}.
 
 ## Closing Remarks
 

@@ -22,7 +22,7 @@ However, as I alluded to earlier, this is not simple because you need to put tho
 ## Prerequisites
 
 - Python must be installed.
-- Download the uninstaller from [GitHub](https://github.com/KaeIan/Generate-Uninstaller){target="__blank"}
+- Download the uninstaller from [GitHub](https://github.com/kaelanhr/Generate-Uninstaller){target="__blank"}
 
 ## Usage
 

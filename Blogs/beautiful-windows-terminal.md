@@ -158,6 +158,6 @@ The customisation here is extensive, you could for example add your corporate lo
 
 As I was writing this, a former colleague linked me to some [Windows Terminal Shaders](https://github.com/Hammster/windows-terminal-shaders){target="__blank"} if you want even more theming.
 
-You can view my profile on [Github](https://github.com/KaeIan/UserProfiles/blob/master/WindowsTerminal/settings.json){target="__blank"}.
+You can view my profile on [Github](https://github.com/kaelanhr/UserProfiles/blob/master/WindowsTerminal/settings.json){target="__blank"}.
 
 So there you have it. I hoped you enjoyed this article and are inspired to make your Windows Terminal beautiful.

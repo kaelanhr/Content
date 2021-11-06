@@ -177,4 +177,4 @@ I barely scratched the surface for what is possible with mobile application deve
 
 I have often thought about creating a mobile application for basic Minecraft server administration, if this application is to evolve any further this is the direction I would like to take it.
 
-You can find the source code of this application on [Github](https://github.com/KaeIan/MinecraftApp){target="__blank"}.
+You can find the source code of this application on [Github](https://github.com/kaelanhr/MinecraftApp){target="__blank"}.

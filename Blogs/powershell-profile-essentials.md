@@ -38,7 +38,7 @@ Import-Module oh-my-posh
 Import-Module -Name Terminal-Icons
 ```
 
-You can pick from an existing theme by running `Get-PoshThemes` and `Set-PoshPrompt` to select the theme or take my [profile](https://github.com/KaeIan/UserProfiles/blob/master/OhMyPosh/poshConfig.json){target="__blank"} and start tweaking it.
+You can pick from an existing theme by running `Get-PoshThemes` and `Set-PoshPrompt` to select the theme or take my [profile](https://github.com/kaelanhr/UserProfiles/blob/master/OhMyPosh/poshConfig.json){target="__blank"} and start tweaking it.
 
 ```powershell
 Set-PoshPrompt -Theme "<path to config file>"
@@ -151,4 +151,4 @@ function Open-Explorer() {
 Set-Alias ex Open-Explorer
 ```
 
-I hope to build on this as I find more amazing PowerShell modules and other useful settings. If you would like to grab my full PowerShell profile, you can find it on [GitHub](https://github.com/KaeIan/UserProfiles/blob/master/PowershellCore/Microsoft.Powershell_profile.ps1){target="__blank"}. If you were curious how I got my Windows terminal to look so snazzy, check out my [Beautiful Windows Terminal](./beautiful-windows-terminal){target="__blank"} blog post.
+I hope to build on this as I find more amazing PowerShell modules and other useful settings. If you would like to grab my full PowerShell profile, you can find it on [GitHub](https://github.com/kaelanhr/UserProfiles/blob/master/PowershellCore/Microsoft.Powershell_profile.ps1){target="__blank"}. If you were curious how I got my Windows terminal to look so snazzy, check out my [Beautiful Windows Terminal](./beautiful-windows-terminal){target="__blank"} blog post.
